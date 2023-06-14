@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @piujadkar
+- 👋 Hi, I’m @namratajadkar
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning software devloper skill
 - 💞️ I’m looking to collaborate on  coding project
